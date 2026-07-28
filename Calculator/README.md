@@ -73,7 +73,7 @@ Type y for yes and n for no:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-calculator.git
+git clone https://github.com/IshaThakar/python-calculator.git
 ```
 
 Navigate to the project folder:
