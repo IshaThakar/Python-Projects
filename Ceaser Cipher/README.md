@@ -29,7 +29,7 @@ The program stores all supported characters in a single list. During encryption 
 ## Technologies Used
 
 - Python 3
-- 
+
 ```
 
 ## How to Run
