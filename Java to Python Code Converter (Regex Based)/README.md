@@ -14,14 +14,6 @@ The project demonstrates how regular expressions can be used for basic source co
 * Reads Java code from an input file
 * Produces converted Python-style code
 
-## Project Structure
-
-```
-.
-├── input.java          # Java source code to convert
-├── converter.py        # Python conversion script
-└── README.md
-```
 
 ## Supported Conversions
 
